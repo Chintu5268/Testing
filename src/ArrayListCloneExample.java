@@ -17,6 +17,8 @@ public class ArrayListCloneExample {
 
         // Modify the cloned list
         clonedList.add("Date");
+        clonedList.add("time");
+
 
         // Display the original and cloned lists after modification
         System.out.println("Original List after modifying clone: " + originalList);
